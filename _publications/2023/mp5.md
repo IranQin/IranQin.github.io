@@ -2,7 +2,7 @@
 title:          "Mp5: A multi-modal open-ended embodied system in minecraft via active perception"
 date:           2023-08-12 00:01:00 +0800
 selected:       true
-pub:            "International Conference on Robotics and Automation (ICRA)"
+pub:            "Conference on Computer Vision and Pattern Recognition (CVPR)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
