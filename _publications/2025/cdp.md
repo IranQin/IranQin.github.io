@@ -26,4 +26,5 @@ authors:
 
 links:
   Paper: https://arxiv.org/abs/2506.14769
+  Project Page: https://gaavama.github.io/CDP/
 ---
