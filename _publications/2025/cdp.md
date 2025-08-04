@@ -2,10 +2,10 @@
 title:          "CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion"
 date:           2025-5-12 00:01:00 +0800
 selected:       true
-# pub:            "International Conference on Computer Vision (ICCV)"
+pub:            "Conference on Robot Learning (CoRL)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub:            "ArXiv Preprint"
+# pub:            "ArXiv Preprint"
 # pub_date:       "2025"
 
 # abstract: >-
