@@ -2,7 +2,7 @@
 title:          "ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks"
 date:           2025-4-12 00:01:00 +0800
 selected:       false
-pub:            "ArXiv Preprint"
+pub:            "EMNLP 2025 main"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
