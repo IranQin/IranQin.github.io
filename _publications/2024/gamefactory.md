@@ -5,7 +5,7 @@ selected:       true
 pub:            "International Conference on Computer Vision (ICCV)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Highlight</span>'
 pub_date:       "2025"
 
 # abstract: >-
