@@ -40,6 +40,18 @@
                         <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
                             {{ site.data.profile.short_bio }}
                         </div>
+                        
+                        <hr />
+                        <div class="row mt-4">
+                          <div class="col text-center">
+                            <h3>Research Framework</h3>
+                            <img src="{{ '/assets/images/covers/research_summary.png' | relative_url }}" 
+                                 alt="Research Framework" 
+                                 class="img-fluid shadow-sm rounded" 
+                                 style="max-width: 900px;">
+                          </div>
+                        </div>
+
                         {% if site.data.profile.cv_link %}
                             <a target="_blank" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> Curriculum Vitae</a> <br/>
                         {% endif %}
